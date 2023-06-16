@@ -1,4 +1,4 @@
 {
-"fetchReleaseNotes": true,
+  "fetchReleaseNotes": "pr",
   "configMigration": true
 }
