@@ -1,3 +1,4 @@
 {
-"fetchReleaseNotes": false
+"fetchReleaseNotes": false,
+  "configMigration": true
 }
